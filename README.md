@@ -1,8 +1,14 @@
-## Estructura Commits
-- El primer paso para crear la estructura es crear el main y realizar un commit para comenzar con la tarea.
-- Despues crearemos una rama mediante el apartado de branch este se llama hotfix.
-- Luego entramos en branch y le damos a la 2a opcion que es meternos en la rama hotfix y realizamos un commit.
-- El siguiente paso es crear una nueva rama en "branch" que se llama develop y realizamos de nuevo un commit.
+# Estructura Commits
+## Para crear la estructura que hay en el gráfico de git tenemos que:
+- Crear Ramas:
+Nos vamos al apartado de "branches" y le das al "+" y pones el nombre de la rama a crear y le das a "crear branch"
+- Realizar Commits:
+Tienes que coger los archivos que quieres guardar en un punto y realizar el commit poniendo un mensaje y dandole al botón de confirmar
+- Sincronizar Commits:
+Tenemos que sincronizar los cambios que has hecho
+- Merge:
+Para hacer el merge tenemos que entrar en la rama que queremos y darle a los 3 puntos en control de código fuente -> Rama -> Combinar -> y seleccionar la rama que queremos combinar.
 
-![Texto alternativo](URL_de_la_imagen)
+
+![Gráfico](image.png)
 
